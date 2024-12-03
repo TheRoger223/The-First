@@ -1,0 +1,3 @@
+touch Thefirst.txt
+git add.
+git commit -m "Minha primeira alteração"
